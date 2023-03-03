@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="visa">VISA</string>
+    <string name="_1234">**** **** **** 1234</string>
+    <string name="card_owner">Card owner</string>
+    <string name="james_bond">James Bond</string>
+    <string name="expiration_date">Expiration date</string>
+    <string name="_12_26">12/26</string>
+    <string name="card">Card</string>
+</resources>
