@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         val rv = findViewById<RecyclerView>(R.id.recyclerView)
         rv.adapter = CardAdapter(getCards())
-        rv.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, )
+        rv.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
 
 
 
